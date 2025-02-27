@@ -7,6 +7,7 @@ export default function rightbar() {
           <img  className="bithdayImg" src="assets/gift.png" alt="" />
           <span className="birthText">
             <b> mensjase de happy </b> y ademas<b>tengo 3 amigos </b>  viendo el perfil
+            <br />demmo de prueba
 
           </span>
         </div>
