@@ -7,7 +7,7 @@ export default function Topbar() {
   return (
     <div className="topbarContainer">
         <div className="topbarLeft">
-            <span className="logo">logo social de rolo</span>
+            <span className="logo">FAcebook de rolo</span>
         </div >
         <div className="topbarCenter"></div>
             <div className="searchbar">
